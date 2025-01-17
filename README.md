@@ -65,7 +65,7 @@
 <td align="center" colspan="5">5주차</td>
 </tr>
 <tr>
-<td align="center">12/19(일)</td>
+<td align="center">1/19(일)</td>
 <th align="left">[6장] 타입스크립트 컴파일</th>
 <td><a href="">정리</a></td>
 <td><a href="">문제</a></td>
