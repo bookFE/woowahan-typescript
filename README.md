@@ -67,8 +67,8 @@
 <tr>
 <td align="center">1/19(일)</td>
 <th align="left">[6장] 타입스크립트 컴파일</th>
-<td><a href="">정리</a></td>
-<td><a href="">문제</a></td>
+<td><a href="https://github.com/bookFE/woowahan-typescript/tree/main/6%EC%9E%A5">정리</a></td>
+<td><a href="https://github.com/bookFE/woowahan-typescript/wiki/%5B6%EC%9E%A5%5D-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC">문제</a></td>
 </tr>
 </tbody>
 </table>
